@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Nothing+You+Could+Do&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Nanum+Myeongjo&family=Nothing+You+Could+Do&display=swap');
+
+h2 {
+	font-family: 'Nothing You Could Do', cursive; font-size:5em; text-align: center; text-indent:15%;
+}
+
+h1 {
+	font-family: 'Playfair Display', serif; font-size:5.7em; padding-left:35%;
+}
+
+p {
+	font-family: 'Nanum Myeongjo', serif; padding-top:33%; padding-left:40%;
+}
+
+@-webkit-keyframes up{
+	0% {
+
+	}
+	10%{ width:27px; height: 100%;
+
+	}
+	100%{ width:27px; height: 100%;
+
+	}
+}
